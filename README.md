@@ -1,2 +1,2 @@
 # expedientes-tecnicos
-Repositorio para organizar expedientes técnicos de proyectos
+Diseño Colaborativo de un Sistema de Telecomunicaciones y TIC para la Mejora de los Servicios en un Centro de Salud nivel xxx-Puno
